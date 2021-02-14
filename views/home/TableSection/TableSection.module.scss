@@ -1,0 +1,5 @@
+@import 'styles/utils/rem-calc.scss';
+
+.table {
+  min-width: rem-calc(650);
+}
